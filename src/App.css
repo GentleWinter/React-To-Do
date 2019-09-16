@@ -1,0 +1,33 @@
+footer {
+    width: 100%;
+    align-content: center;
+    justify-content: center;
+    background: aquamarine;
+    color: white;
+    height: 60px;
+    align-items: flex-end;
+    position: fixed;
+    bottom: 0;
+   }
+   header {
+    width: 100%;
+    align-content: center;
+    justify-content: center;
+    color: white;
+    background: aquamarine;
+    height: 60px;
+   }
+   #nome{
+    margin: 0 auto;
+    width: 200px;
+    height: 80%;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    color: black;
+   }
+   button{
+     margin: 0 auto;
+     left: 48%;
+     top: 15%;
+   }
